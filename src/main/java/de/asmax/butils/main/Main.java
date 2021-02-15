@@ -21,8 +21,6 @@ public final class Main extends JavaPlugin {
     private static String error = "§8§l[§4§lERROR§8§l] §8";
     private static String debug = "§e§l[DEBUG] §r§7";
 
-    //TODO: English Translation missing
-
     @Override
     public void onEnable() {
         plugin = this;
