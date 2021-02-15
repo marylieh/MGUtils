@@ -1,0 +1,19 @@
+name: BUtils
+version: ${project.version}
+main: de.asmax.butils.main.Main
+api-version: 1.16
+authors: [ AsMax ]
+
+commands:
+   settings:
+   timer:
+   heal:
+   feed:
+   reset:
+   position:
+   debug:
+   hide:
+   gm:
+   lag:
+   antilag:
+   weak:
