@@ -109,7 +109,7 @@ public final class Main extends JavaPlugin {
                 AntiLag.antiLag();
 
             }
-        }, 0L, 1L);
+        }, 1200L, 1L);
     }
 
 }
