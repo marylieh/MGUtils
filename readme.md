@@ -83,7 +83,7 @@ No Achievments (Apfel) **[ALPHA]** - _Diese Funktion zieht jedesmal wenn ein Spi
 
 Extreme Randomizer (Diamantspitzhacke) - _Diese Funktion droppt jedesmal wenn ein Spieler einen Block abbaut ein zufälliges Item._
 
-Ampfel Rennen (Grüner Beton) - _Diese Funktion schaltet ca. alle 5 Minuten die Ampel je nach dem muss man stehen bleiben._
+Ampel Rennen (Grüner Beton) - _Diese Funktion schaltet ca. alle 5 Minuten die Ampel je nach dem muss man stehen bleiben._
 
 Maximale Herzen (Goldener Apfel) - _Diese Funktion konfiguriert die Maximale Anzahl der Herzen, der Spieler._
 
